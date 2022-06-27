@@ -8,8 +8,7 @@ Some of the topics included are:
 3) Programs related to Classes, Overloading and Overriding
 4) Programs for Calendar class and many more..
 
-Basically this repository has been created for uploading my completed assignments provided 
-by teacher during my ongoing internhip.
+Basically this repository has been created for uploading my completed assignments 
 
 **Editors used:**
 
