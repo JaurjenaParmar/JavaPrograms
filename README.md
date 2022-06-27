@@ -1,5 +1,5 @@
 # JavaPrograms
-__This repository contains the java programs.
+**This repository contains the java programs.**
 
 Some of the topics included are:
 
