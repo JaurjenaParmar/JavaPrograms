@@ -6,7 +6,7 @@ public class ReverseNumber{
 		long n=s.nextLong();
 		long rev=0;
 		while(n>0){
-			long num=n%10;
+			long num=n%10;    // gives remainder i.e., last digit of the number
 			rev=rev*10+num;
 			n/=10; 
 		}
