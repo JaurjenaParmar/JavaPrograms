@@ -1,7 +1,8 @@
 import java.util.Scanner;
-public class Pattern1{
+public class DiamondPattern{
 	public static void main(String args[]){
 		int n=5;
+		// this is to print the upper half of the diamond
 		for(int i=1;i<=n;i++){
 			for(int j=i;j<n;j++){
 				System.out.print(" ");}
@@ -11,8 +12,9 @@ public class Pattern1{
 				else
 					System.out.print(" ");
 				}
-			System.out.println();
+			System.out.println(); // strats a new line
 		}
+		// this prints the lower half of the pattern
 		for(int i=n-1;i>=1;i--){
 			for(int j=i;j<n;j++){
 				System.out.print(" ");}
@@ -22,7 +24,7 @@ public class Pattern1{
 				else
 					System.out.print(" ");
 			}
-			System.out.println();
+			System.out.println(); // starts a new line 
 		}
 }
 }
