@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//This program calculates factorial of a number
 public class Factorial{
 	public static int calculateFactorial(int n){
 		int fact=1;
